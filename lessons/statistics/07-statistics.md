@@ -93,7 +93,7 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Frequentists say that only repeatable random events (like flipping a coin) can have probabilities. Bayesian statistics says that events that happen only once can also have probabilities based on degrees of belief and logical support.
 
 ---
 
